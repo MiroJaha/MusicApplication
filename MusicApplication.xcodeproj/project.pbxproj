@@ -30,6 +30,7 @@
 		C346A18E279743A900B77FAE /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A18D279743A900B77FAE /* AudioTrack.swift */; };
 		C346A190279743B900B77FAE /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A18F279743B900B77FAE /* Artist.swift */; };
 		C346A192279743CB00B77FAE /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A191279743CB00B77FAE /* UserProfile.swift */; };
+		C346A19427980C9D00B77FAE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A19327980C9D00B77FAE /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		C346A18D279743A900B77FAE /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		C346A18F279743B900B77FAE /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		C346A191279743CB00B77FAE /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		C346A19327980C9D00B77FAE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				C346A15E27973BA600B77FAE /* Assets.xcassets */,
 				C346A15527973BA300B77FAE /* AppDelegate.swift */,
 				C346A15727973BA300B77FAE /* SceneDelegate.swift */,
+				C346A19327980C9D00B77FAE /* Extensions.swift */,
 			);
 			path = Resorces;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				C346A18C2797439700B77FAE /* PlayList.swift in Sources */,
 				C346A15627973BA300B77FAE /* AppDelegate.swift in Sources */,
 				C346A192279743CB00B77FAE /* UserProfile.swift in Sources */,
+				C346A19427980C9D00B77FAE /* Extensions.swift in Sources */,
 				C346A1822797432600B77FAE /* PlayListViewController.swift in Sources */,
 				C346A190279743B900B77FAE /* Artist.swift in Sources */,
 				C346A174279742A400B77FAE /* LibraryViewController.swift in Sources */,
