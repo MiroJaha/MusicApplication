@@ -31,6 +31,7 @@
 		C346A190279743B900B77FAE /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A18F279743B900B77FAE /* Artist.swift */; };
 		C346A192279743CB00B77FAE /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A191279743CB00B77FAE /* UserProfile.swift */; };
 		C346A19427980C9D00B77FAE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A19327980C9D00B77FAE /* Extensions.swift */; };
+		C346A196279887F200B77FAE /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = C346A195279887F200B77FAE /* AuthResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		C346A18F279743B900B77FAE /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		C346A191279743CB00B77FAE /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
 		C346A19327980C9D00B77FAE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		C346A195279887F200B77FAE /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				C346A18D279743A900B77FAE /* AudioTrack.swift */,
 				C346A18F279743B900B77FAE /* Artist.swift */,
 				C346A191279743CB00B77FAE /* UserProfile.swift */,
+				C346A195279887F200B77FAE /* AuthResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				C346A1702797422200B77FAE /* TabBarViewController.swift in Sources */,
 				C346A15A27973BA300B77FAE /* HomeViewController.swift in Sources */,
 				C346A178279742E000B77FAE /* AuthViewController.swift in Sources */,
+				C346A196279887F200B77FAE /* AuthResponse.swift in Sources */,
 				C346A18E279743A900B77FAE /* AudioTrack.swift in Sources */,
 				C346A17C2797430400B77FAE /* SettingViewController.swift in Sources */,
 				C346A18C2797439700B77FAE /* PlayList.swift in Sources */,
